@@ -1,6 +1,6 @@
 # Michelangelo Buonarroti
 
-![preview](
+![preview](safarimichelangelobg.png)
 
 
 ## Table of contents
