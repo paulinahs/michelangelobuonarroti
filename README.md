@@ -1,6 +1,6 @@
 # Michelangelo Buonarroti
 
-![branding](/brandingscreenshot.jpg)
+![preview](
 
 
 ## Table of contents
@@ -26,6 +26,10 @@ You can find the finalised project on Behance along with a brief description bel
 I started with creating the branding by using an illustration of the David statue that I have done previously. I played around with the typographies and created also two logos and a pattern.
 
 When I had the branding complete I did some wireframes and hi-fi mock ups on Adobe XD, which I then translated into a landing page.
+
+### Branding
+![branding](/brandingscreenshot.png)
+
 
 ### Links
 
