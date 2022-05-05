@@ -1,6 +1,6 @@
 # Michelangelo Buonarroti
 
-![](./screenshot.jpg)
+![branding](/brandingscreenshot.jpg)
 
 
 ## Table of contents
